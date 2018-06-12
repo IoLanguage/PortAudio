@@ -1,0 +1,15 @@
+{
+  "name":         "PortAudio",
+  "version":      "0.1",
+  "description":  "",
+  "author":       "Steve Dekorte",
+  "website":      "http://iolanguage.org/",
+  "readme":       "README.md",
+  "protos":       ["PortAudio"],
+  "dependencies": {
+    "libs":     ["portaudio"],
+    "headers":  ["portaudio.h"],
+    "protos":   [],
+    "packages": []
+  }
+}
